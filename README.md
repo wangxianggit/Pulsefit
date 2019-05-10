@@ -1,5 +1,5 @@
 # Pulsefit
-A digital pulse decomposition algorithm for short-lived charged particle decay measurement in nuclear physics.
+A digital pulse decomposition algorithm for studies of short-lived alpha decay in nuclear physics.
 
 A pileup pulse decomposition algorithm here for the decomposition of pileup pulses resulting from successive alpha decays or conversion electron decays of
 residuals in a Si detector within short decay time small than 15 microseconds.
